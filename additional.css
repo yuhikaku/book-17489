@@ -39,10 +39,20 @@ header img {
 header a.to-site:hover {
   border: none;
 }
+header div.to-repo {
+  color: gray;
+  text-align: end;
+  font-size: 9pt;
+  margin-bottom: 1em;
+}
 
-h1.main-title {
+h1 {
   font-size: 1.85rem;
   margin-bottom: 40px;
+}
+h1 .sub {
+  display: block;
+  font-size: 0.8em;
 }
 
 h2 {
