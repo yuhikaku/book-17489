@@ -1,2 +1,6 @@
-# book-17489
-『職場がうまくいかないときの心理学100』（芦高勇気・安藤史江・伊東昌子・渡辺めぐみ／著，2023年）サポートページです。
+# README
+
+[Github Pages](https://yuhikaku.github.io/book-17489/) をご覧ください。
+
+---
+using [sakura css framework](https://github.com/oxalorg/sakura)
